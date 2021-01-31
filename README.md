@@ -1,5 +1,5 @@
 # Learn Git and Github
-![Learn Git and Github](https://i.ibb.co/VCPcZ8w/13.png)
+![Learn Git and Github](https://i.imgur.com/fNleKDH.png)
 
 ***
 ***
