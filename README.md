@@ -51,7 +51,7 @@
 
 ## Tutorials :
 
-[​Install Git, Windows, OSX and Linux](tutorials/GitInstall.md)
+[​Install Git, Windows, OSX and Linux](https://blog.sofianehamlaoui.fr/2021/01/31/GitInstall/)
 
 
 ***
