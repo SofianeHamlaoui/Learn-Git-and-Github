@@ -4,11 +4,6 @@
 ***
 ***
 
-### Here you find a list of the lessons, Resources and exercises gived by the DzCode team.
-
-***
-***
-
 # Prerequisites
 -   A quick understanding of the Linux Commands. Here is a small cheatsheet explaining the most important Linux Commands.
     
@@ -58,8 +53,6 @@
 
 [​Install Git, Windows, OSX and Linux](tutorials/GitInstall.md)
 
-[How To Add Your Own Article to](tutorials/AddYourOwnArticle.md) [DzCode.io](https://dzcode.io)
-
 
 ***
 ***
@@ -71,7 +64,7 @@ If you do want to make and share your own :
 
 -   Tutorials : Contact the owners to join us teaching people.
 
--   Articles : Follow this link [Add your own article](tutorials/AddYourOwnArticle.md) to add your own article to our website [DzCode.io](https://dzcode.io/Articles)
+-   Articles : Check this repo [SofianeHamlaoui.github.io](https://github.com/SofianeHamlaoui/SofianeHamlaoui.github.io)
 
 -   Fixing Typos : Do a pull request with your modifications and we will check and accept it as soon as possible.
 
@@ -79,14 +72,17 @@ If you do want to make and share your own :
 ***
 ***
 
-# Check us on Social Media!
+## 🔗 Connect with me 
 
-<div align="center">
-<a href="https://www.linkedin.com/groups/8924363/"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/dzcode_io"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/dzcode.io"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UC_tLjuQaYotzERtaAo8Y4SQ"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
-<br></div>
+
+<p align='center'> 
+<a href="https://www.linkedin.com/in/sofianehamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@SofianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/S0fianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/SofianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/S0fianeHamlaoui/"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCCjypR-PBzkLJiZYy95HQIQ"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
+</div>
 
 ***
 ***
