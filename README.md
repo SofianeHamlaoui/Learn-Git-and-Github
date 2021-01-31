@@ -1,115 +1,95 @@
 # Learn Git and Github
 ![Learn Git and Github](https://i.ibb.co/VCPcZ8w/13.png)
-# Lesson 0x0 : Hello World
 
-[The Hello World project](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+***
+***
 
-You’ll learn how to:
+### Here you find a list of the lessons, Resources and exercises gived by the DzCode team.
 
-*   Create and use a repository
-*   Start and manage a new branch
-*   Make changes to a file and push them to GitHub as commits
-*   Open and merge a pull request
+***
+***
 
-But before doing that, let's first learn more about Github and Git and how they are marking the world a better place.
+# Prerequisites
+-   A quick understanding of the Linux Commands. Here is a small cheatsheet explaining the most important Linux Commands.
+    
+    You can find a small/simple Linux Commands Cheatsheet ( by [DaveChlid](https://twitter.com/Dave_Child)):
 
-## x00 What is Git and Github ?
+    -   The Image Version of it : ![](https://i.imgur.com/R7IVdx1.jpg)
 
-### x01 : What is Git ? 
+    -   Or you can check the PDF verions of it here : [Linux Commands CheatSheet](https://github.com/dzcode-io/Linux-Commands/blob/master/pdf/LinuxCommandsCheatSheet.pdf)
 
-Git is a free, open-source version control software. This basically means that it is a content tracker.
+    Or, Check Our repository with full explanations of the [Linux Commands](https://github.com/dzcode-io/Linux-Commands)
 
-Real life projects generally have multiple developers working in parallel. So they need a [Version Control System](https://en.wikipedia.org/wiki/Version_control) like Git to make sure that there are no code conflicts between them.
+***
+***
 
-So a [Version Control System](https://en.wikipedia.org/wiki/Version_control) allows developers to revert and go back to an older version, check modifications, follow them and keep the whole work organised between a full team of coworkers or "Code-friends".
+# Table of Contents :
 
-And to do that, they use [The Branching System](https://en.wikipedia.org/wiki/Branching_(version_control)) in Git that allows developers to work individually on a task (For example: One branch -> One task OR One branch -> One developer). Basically think of Git as a small software application that controls your code base, if you’re a developer.
+## Lessons : 
+
+### Module 0x0 : Hello World
+
+[​Chapter 1 - Hello World - Part 1 ](lessons/0x0-HelloWorld/HelloWorld_pt1.md)
+
+[​Chapter 2 - Hello World - Part 2 ](lessons/0x0-HelloWorld/HelloWorld_pt2.md)
 
 
-### x02 : What are Git repositories ?
+### Module 0x1 : Git
 
-A repository (or “Repo” for short) is a project that contains multiple files. In our case a repository will contain code-based files.
+[​Chapter 1 - Git Basics - Part 1](lessons/0x1-Git_Basics/Git_Basics_pt1.md)
 
-So, if we want to start using Git and its amazing "Branching and Version Controlling" Systems, we need to know where to host our repositories.
+[​Chapter 2 - Git Basics - Part 2](lessons/0x1-Git_Basics/Git_Basics_pt2.md)
 
-There are two ways you can host your repositories. One is online (on the cloud) and the second is offline (self-installed on your server).
+[​Chapter 3 - Going back in time](lessons/0x2-Going_back_in_time/going_back_in_time.md)
 
-And here we can jump to our [x03](README.md#x03--what-is-github-) and talk about Github.
+[​Chapter 4 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
-### x03 : What is Github ? 
+[​Chapter 5 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
-GitHub is a code hosting platform for version control and collaboration. 
+[​Chapter 6 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
-As I said on [x02](README.md#x02--what-are-git-repositories-), we will need somewhere to host our Code, and Github is our solution now!
+[​Chapter 7 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
-But, Why Github and not any other hosting solutions ?
+### Module 0x3 : GitHub
 
-*      It makes it easy to contribute to your open source projects
-            
-            To be honest, nearly every open-source project uses GitHub to manage their project.
+[​Chapter 1 - NOT YET]()
 
-*       Documentation :
+## Tutorials :
 
-            By using GitHub, you make it easier to get excellent documentation. 
-            Their help section and guides have articles for nearly any topic related 
-            to git that you can think of.
+[​Install Git, Windows, OSX and Linux](tutorials/GitInstall.md)
 
-*       Showcase your work : 
-            
-            Are you a developer and wishes to attract recruiters? 
-            GitHub is the best tool you can rely on for this. 
-            Today, when searching for new recruits for their project, 
-            most companies look into the GitHub profiles.
+[How To Add Your Own Article to](tutorials/AddYourOwnArticle.md) [DzCode.io](https://dzcode.io)
 
-*       Markdown : 
 
-            Well! that's what I'm using right now to write this.
-            Markdown allows you to use a simple text editor to write formatted documents.
-            GitHub has revolutionized writing by channeling everything through Markdown
+***
+***
 
-Here you can find all the features Github can offer if you want to know more : [Github Features](https://github.com/features)
+ # Contribute :
+If you do want to make and share your own : 
 
-## x10 : Making your first Git repository 
+-   Lessons : Contact the owners to join us teaching people. 
 
-### x11 : Creating a Github Account :
-I mean, you are already here! it is a probability of 1% if you don't already have an account.
+-   Tutorials : Contact the owners to join us teaching people.
 
-If not, follow this link to Join GitHub : [Join GitHub](https://github.com/join)
+-   Articles : Follow this link [Add your own article](tutorials/AddYourOwnArticle.md) to add your own article to our website [DzCode.io](https://dzcode.io/Articles)
 
-![Create Your Account](https://i.imgur.com/9lFgdA0.png)
+-   Fixing Typos : Do a pull request with your modifications and we will check and accept it as soon as possible.
 
-### x12 : Logging in and seeing Github's interface for the first time
 
-After Logging in, you will face an interface similar to this one, And this will be your Github's Dashboard.
-( I don't think it will be as full as mine but that is what I hope for all Algerians ♥️)
+***
+***
 
-![Github Dashboard](https://i.imgur.com/5yF11Hg.png)
+# Check us on Social Media!
 
-### x13 : Installing Git on your machine : 
+<div align="center">
+<a href="https://www.linkedin.com/groups/8924363/"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/dzcode_io"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/dzcode.io"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UC_tLjuQaYotzERtaAo8Y4SQ"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
+<br></div>
 
-Installing Git deffers from an Operation System to another, So follow this detailed tutorial with images to do that. [Installing Git on your Machine | Windows,OSX and Linux](git_install.md)
+***
+***
 
-### x14 : Configuring Git
-After installing git, now you have to configure the name and the email that you'll use for your next contributions and modifications.
-To do that, open the terminal OR Git CMD (For Windows Users), and type :
-```
-git config --global user.name "YOUR NAME"
-git config --global user.email "YOUREMAIL@MAIL.COM"
-```
-
-### x14 : Creating a repository :
-To do that, 
-
--   1 - Go back to you Github Dashboard.
--   2 - Create a new repository ![aze](https://i.imgur.com/6kWsnjg.png)
--   3 - Name your repository hello-world.
--   4 - Add the following Description `#LearningWithDzCode`
--   5 - Make the repository Public, Add a Readme file and create it.![Add new repo](https://i.imgur.com/1rZE99v.png)
--   6 - CONGRATULATIONS ! You just created your first Git repository ♥️ ![Congrats](https://i.imgur.com/gJUKJxD.png)
-
-<b>On the next Lesson 0x1, You will learn some git commands, the essentials and how to contribute and do modifications on Git repos.<b>
-
-Start by learning Git and Github
-### Check here the list of [Algerian Github users](Algerian-gh-users.md)
-
+<div align="center"><h4> © 2021 - Sofiane Hamlaooui - Making the world a better place 🌎  </h3></div>
 
