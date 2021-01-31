@@ -11,9 +11,9 @@
 
     -   The Image Version of it : ![](https://i.imgur.com/R7IVdx1.jpg)
 
-    -   Or you can check the PDF verions of it here : [Linux Commands CheatSheet](https://github.com/dzcode-io/Linux-Commands/blob/master/pdf/LinuxCommandsCheatSheet.pdf)
+    -   Or you can check the PDF verions of it here : [Linux Commands CheatSheet](http://up.sofianehamlaoui.fr/LinuxCommandsCheatSheet.pdf)
 
-    Or, Check Our repository with full explanations of the [Linux Commands](https://github.com/dzcode-io/Linux-Commands)
+    Or, Check Our repository with full explanations of the [Linux Commands](https://blog.sofianehamlaoui.fr/2021/01/31/linux/)
 
 ***
 ***
